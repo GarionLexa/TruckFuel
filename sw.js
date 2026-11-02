@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'v3';
+const CACHE_VERSION = 'v4';
 const CACHE_NAME = 'truckfuel-' + CACHE_VERSION;
 const FONT_CACHE = 'truckfuel-fonts-' + CACHE_VERSION;
 
